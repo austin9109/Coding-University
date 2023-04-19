@@ -559,7 +559,8 @@
     - [ ] [Stacks(影片)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
     - [ ] [使用Stacks先進後出(Last-In First-Out)(影片)]()
     - [ ] [[Review] Stacks in 3 minutes (video)](https://youtu.be/KcT3aVgrrpU)
-    - [ ] 無須實作，可以用陣列實作，但這樣太過簡單了。
+    - [x] 無須實作，可以用陣列實作，但這樣太過簡單了。
+    - [x] Stack and Heap 概念統整文章
 
 - ### Queue(佇列)
     - [ ] [使用Queues(先進先出)First-In First-Out(影片)]()
