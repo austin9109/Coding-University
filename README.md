@@ -62,7 +62,7 @@
     <hr />
 </div>
 
-## What is it?
+## What is it? &#x2705;
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
@@ -206,7 +206,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 ---
 
-## Why use it?
+## Why use it? &#x2705;
 
 If you want to work as a software engineer for a large company, these are the things you have to know.
 
@@ -221,7 +221,7 @@ thousands of associative arrays, but I never created data structures from scratc
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
-## How to use it
+## How to use it &#x2705;
 
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
@@ -269,7 +269,7 @@ Create a new branch so you can check items like this, just put an x in the brack
     - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
     - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
-## A Note About Video Resources
+## A Note About Video Resources &#x2705;
 
 Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
 Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
@@ -278,7 +278,7 @@ It would be great to replace the online course resources with free and always-av
 such as YouTube videos (preferably university lectures), so that you people can study these anytime, 
 not just when a specific online course is in session.
 
-## Choose a Programming Language
+## Choose a Programming Language &#x2705;
 
 You'll need to choose a programming language for the coding interviews you do, 
 but you'll also need to find a language that you can use to study computer science concepts.
@@ -332,7 +332,7 @@ Read more about choices:
 
 [See language-specific resources here](programming-language-resources.md)
 
-## Books for Data Structures and Algorithms
+## Books for Data Structures and Algorithms &#x2705;
 
 This book will form your foundation for computer science.
 
@@ -373,7 +373,7 @@ Your choice:
     - [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
     - [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 
-## Interview Prep Books
+## Interview Prep Books &#x2705;
 
 You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough, 
 but I bought more to give myself more practice. But I always do too much.
@@ -467,7 +467,7 @@ There are many resources for this, listed below. Keep going.
 There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music
 without lyrics and you'll be able to focus pretty well.
 
-## What you won't see covered
+## What you won't see covered &#x2705;
 
 These are prevalent technologies but not part of this study plan:
 
