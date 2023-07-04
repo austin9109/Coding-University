@@ -262,7 +262,7 @@ Create a new branch so you can check items like this, just put an x in the brack
     git push # just pushes to your fork
     ```
 
-## Don't feel you aren't smart enough
+## Don't feel you aren't smart enough &#x2705;
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - Following videos may help you overcome this insecurity:
@@ -396,7 +396,7 @@ Choose one:
 - [Elements of Programming Interviews (Java version)](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
         - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
-## Don't Make My Mistakes
+## Don't Make My Mistakes &#x2705;
 
 This list grew over many months, and yes, it got out of hand.
 
@@ -475,7 +475,7 @@ These are prevalent technologies but not part of this study plan:
 - HTML, CSS, and other front-end technologies
 - SQL
 
-## The Daily Plan
+## The Daily Plan &#x2705;
 
 This course goes over a lot of subjects. Each will probably take you a few days, or maybe even a week or more. It depends on your schedule.
 
@@ -489,7 +489,7 @@ You can see my code here:
 
 You don't need to memorize every algorithm. You just need to be able to understand it enough to be able to write your own implementation.
 
-## Coding Question Practice
+## Coding Question Practice &#x2705;
 
     Why is this here? I'm not ready to interview.
 
@@ -517,7 +517,7 @@ Gets messy quick. **I use a pencil and eraser.**
 
 **Coding question practice is not about memorizing answers to programming problems.**
 
-## Coding Problems
+## Coding Problems &#x2705;
 
 Don't forget your key coding interview books [here](#interview-prep-books).
 
@@ -560,7 +560,7 @@ But don't forget to do coding problems from above while you learn!
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
 - Don't worry if you don't understand all the math behind it.
 - You just need to understand how to express the complexity of an algorithm in terms of Big-O.
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
